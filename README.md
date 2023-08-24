@@ -1,6 +1,6 @@
 # NFT site
 
-Welcome to the NFT site! This project represents several hours of dedicated development aimed at creating an engaging platform for displaying NFT (Non-Fungible Token) art. Throughout the development process, the focus was on employing best practices such as using semantic HTML, implementing hover and active states for interactivity, and thoroughly refactoring the CSS code to ensure a clean and organized structure. The primary goal was to enhance the overall user experience and write efficient, well-structured code.
+Welcome to the NFT site! This project represents several hours of dedicated development aimed at creating an engaging platform for displaying NFT (Non-Fungible Token) art. Throughout the development process, the focus was on employing best practices such as using semantic HTML, implementing hover and active states for interactivity, and thoroughly refactoring the CSS code to ensure a clean and organized structure. The primary goal was to enhance the overall user experience and write efficient, well-structured code inspiration of design scrimba.
 
 ## Key Features
 
